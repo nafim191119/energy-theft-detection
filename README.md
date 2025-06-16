@@ -22,7 +22,7 @@ PowerGuardian is a smart energy monitoring system that uses machine learning to 
 
 ![screenshot](screenshots/usage_plot.png)
 
-![Dashboard Link](https://energy-theft-detection-a4m8kngkycnjekrkanduuc.streamlit.app)
+![Dashboard Link](https://energy-theft-detection-a4m8kngkycnjekrkanduuc.streamlit.app/)
 
 ## 📎 Dataset
 - Simulated 30-day smart meter readings for 5 users (hourly). 5% data is marked as theft.
